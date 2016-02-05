@@ -1,0 +1,26 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "stream adventure tutorial",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "carlos",
+  "license": "MIT",
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "duplexer2": "^0.1.4",
+    "stream-combiner": "^0.2.2",
+    "stream-combiner2": "^1.0.2",
+    "tar": "^2.2.1",
+    "through2": "^2.0.0"
+  }
+}

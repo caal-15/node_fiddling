@@ -1,0 +1,22 @@
+{
+  "name": "expressworks",
+  "version": "0.0.1",
+  "description": "expressworks workshop",
+  "main": "N/A",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/A.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n/A/issues"
+  },
+  "homepage": "https://github.com/n/A#readme"
+}

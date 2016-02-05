@@ -1,0 +1,22 @@
+{
+  "name": "authentication",
+  "version": "0.0.1",
+  "description": "Authentication test module",
+  "main": "main.js",
+  "dependencies": {
+    "connect-flash": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "carlos",
+  "license": "MIT"
+}

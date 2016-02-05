@@ -1,0 +1,7 @@
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:3000/kittens -c Cookie -b Cookie
+ 
+curl -H "Content-Type: application/json" -X POST -d '{"username":"","password":""}' http://localhost:3000/signup -c Cookie -b Cookie
+
+curl -H "Content-Type: application/json" -X POST -d '{"username":"","password":""}' http://localhost:3000/signin -c Cookie -b Cookie
+
+curl http://localhost:3000/logout -c Cookie -b Cookie
